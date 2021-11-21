@@ -1,0 +1,6 @@
+'derive-product-correct', (0, 70)
+'derive-sum-correct', (512, 70)
+'make-exp-correct', (1024, 70)
+'derive-exp-correct', (1536, 70)
+'quasiquote-correct', (2048, 70)
+'eval-calls-correct', (2560, 70)

@@ -1,0 +1,3 @@
+'num_eights-correct', (0, 70)
+'missing_digits-correct', (512, 70)
+'pingpong-correct', (1024, 70)

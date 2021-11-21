@@ -1,0 +1,1 @@
+SELECT seven from students where students.time in (select time from numbers where '7' = 'True')

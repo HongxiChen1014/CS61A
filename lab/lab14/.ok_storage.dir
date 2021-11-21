@@ -1,0 +1,7 @@
+'foldl-correct', (0, 70)
+'prune_min-correct', (512, 70)
+'filterl-correct', (1024, 70)
+'CheckingAccount-correct', (1536, 70)
+'num_splits-correct', (2048, 70)
+'reverse-correct', (2560, 70)
+'foldl2-correct', (3072, 70)
